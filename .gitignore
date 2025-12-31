@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.parquet
+.tmp/
+tmp/**
+!tmp/.gitkeep
+data/processed/**
+!data/processed/.gitkeep
+.env
+.DS_Store
